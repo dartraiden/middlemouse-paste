@@ -1,1 +1,1 @@
-# middlemouse-paste
+A small utility for pasting text from the clipboard of the middle mouse button click.
